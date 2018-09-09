@@ -67,6 +67,3 @@ while True:
     i=i+1
     print(i)
 
-
-#gedan.search('Terror')
-
