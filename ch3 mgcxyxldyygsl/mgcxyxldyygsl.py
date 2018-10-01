@@ -20,9 +20,9 @@ def dist(N1,N2):
     return numpy.sqrt((N1.x-N2.x)*(N1.x-N2.x)+(N1.y-N2.y)*(N1.y-N2.y))
 
 class mgcxyxldyygsl:
-    height = 10
-    width = 10
-    leinum = 5
+    height = 16
+    width = 30
+    leinum = 99
     frame = numpy.zeros([width + 2, height + 2])
     framedisplay = numpy.zeros([width + 2, height + 2])
     leilist = []
